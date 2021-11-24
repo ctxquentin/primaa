@@ -1,0 +1,3 @@
+node_modules
+dockerized/front/.angular/cache
+undockerized/front/.angular/cache
